@@ -25,7 +25,7 @@ app.use('/downloads', express.static(path.join(__dirname, 'downloads')));
 require('dotenv').config();
 
 // RapidAPI Configuration
-const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY || 'f3f8bdd469msh7488b8cba2ceb4cp1b118cjsn01cdb5880d5f';
+const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 const RAPIDAPI_HOST = 'google-translator9.p.rapidapi.com';
 
 // Initialize RapidAPI Translator
