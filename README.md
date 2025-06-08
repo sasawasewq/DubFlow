@@ -3,11 +3,21 @@
 Transform any YouTube video into multiple languages with AI-powered dubbing technology. DubFlow automatically extracts transcripts, translates content, generates natural-sounding speech, and creates professionally dubbed videos.
 
 ![DubFlow Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![Node.js](https://img.shields.io/badge/Node.js-v18+-blue) ![Next.js](https://img.shields.io/badge/Next.js-v13+-black) 
+### 🏠 Home Page
 ![HomePage](images/Screenshot%202025-06-08%20162120.png)
+
+### 🎬 Dubbing a YouTube Video
 ![Dubbing a YouTube video](images/Screenshot%202025-06-08%20162211.png)
+
+### 🌐 Language Selection
 ![Language Selection](images/Screenshot%202025-06-08%20162227.png)
+
+### ⚙️ Processing
 ![Processing](images/Screenshot%202025-06-08%20162256.png)
+
+### 📺 Dubbed Video Display
 ![Dubbed Video display](images/Screenshot%202025-06-08%20162539.png)
+
 
 
 ## ✨ Features
