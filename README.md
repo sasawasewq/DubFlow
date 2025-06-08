@@ -1,4 +1,4 @@
-# 🎙️ DubFlow - AI-Powered YouTube Video Dubbing
+# 🎙️ YouDubber - AI-Powered YouTube Video Dubbing
 
 Transform any YouTube video into multiple languages with AI-powered dubbing technology. DubFlow automatically extracts transcripts, translates content, generates natural-sounding speech, and creates professionally dubbed videos.
 
