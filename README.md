@@ -4,10 +4,11 @@ Transform any YouTube video into multiple languages with AI-powered dubbing tech
 
 ![DubFlow Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![Node.js](https://img.shields.io/badge/Node.js-v18+-blue) ![Next.js](https://img.shields.io/badge/Next.js-v13+-black) 
 ![HomePage](images/Screenshot%202025-06-08%20162120.png)
-![Dubbing a YouTube video](images/Screenshot%2025-06-08%162211.png)
-![Language Selection](images/Screenshot%2025-06-08%162227.png)
-![Processing](images/Screenshot%2025-06-08%162256.png)
-![Dubbed Video display](images/Screenshot%2025-06-08%162539.png)
+![Dubbing a YouTube video](images/screenshot-2025-06-08-162211.png)
+![Language Selection](images/screenshot-2025-06-08-162227.png)
+![Processing](images/screenshot-2025-06-08-162256.png)
+![Dubbed Video display](images/screenshot-2025-06-08-162539.png)
+
 
 ## ✨ Features
 
